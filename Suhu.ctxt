@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=Suhu()
+comment2.params=suhuUdara
+comment2.target=Suhu(int)
+comment3.params=suhuUdara
+comment3.target=void\ setSuhu(int)
+comment4.params=
+comment4.target=int\ getSuhuUdara()
+comment5.params=
+comment5.target=void\ SuhuUp()
+comment6.params=
+comment6.target=void\ SuhuDown()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
